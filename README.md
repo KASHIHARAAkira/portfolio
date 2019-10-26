@@ -1,6 +1,6 @@
 <img src="./resources/thumbnail.png" width="256px">
 
-# 中村 輝（Akira Nakamura）
+# 樫原 輝（Akira Kashihara）
 ### 株式会社ほげふがのシステムエンジニア
 
 [<img src="./resources/sns_icons/facebook.png" width="32px">](https://www.facebook.com/)
