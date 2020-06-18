@@ -1,3 +1,4 @@
+[![GitHub issues](https://img.shields.io/github/issues/KASHIHARAAkira/portfolio)](https://github.com/KASHIHARAAkira/portfolio/issues)
 <img src="./resources/thumbnail.png" width="256px">
 
 # 樫原 輝（Akira Kashihara）
